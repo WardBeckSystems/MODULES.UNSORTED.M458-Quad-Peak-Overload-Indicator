@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (280, 13)–(432, 82) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN.ELJ IV7z · M458 · ENG.E [ J · QUAD PEAK OVERLOAD INDICATOR · CKD: R ( / · SCHEMATIC · APP · SCALE · ISSUE · 458-02-001
 - **Wiring (first pass):** 118 connected wire groups from 464 runs; labelled ends: 117 mm → 22, Iok, 1N4143, R/8; 110 mm → Xzkz, 23, R3i, lok; 81 mm → Gkz, In4148, Rzt, R34; 80 mm → 24k, 1n4148, Iok, 47K; 76 mm → Iook, R46, R4z, CKz
 
-Every curve, box, word and wire group: [19xx - M458 - DOC - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M458%20-%20DOC%20-%20458-02-001%20-%20QUAD%20PEAK%20OVERLOAD%20INDICATOR%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M458 - DOC - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M458 - DOC - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M458%20-%20DOC%20-%20458-02-001%20-%20QUAD%20PEAK%20OVERLOAD%20INDICATOR%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M458 - DOC - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC (traced).dxf`).
 
 ## Full text
 

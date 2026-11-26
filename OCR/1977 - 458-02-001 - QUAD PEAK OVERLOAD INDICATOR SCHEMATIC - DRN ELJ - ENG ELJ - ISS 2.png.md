@@ -36,7 +36,7 @@ Wiki page: [M458](../../../../PAGES/M458.md)
 - **Title block:** (280, 13)–(432, 82) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN.ELJ IV7z · M458 · ENG.E [ J · QUAD PEAK OVERLOAD INDICATOR · CKD: R ( / · SCHEMATIC · APP · SCALE · ISSUE · 458-02-001
 - **Wiring (first pass):** 117 connected wire groups from 456 runs; labelled ends: 118 mm → 22, Iok, R/8, IOK; 110 mm → Xzkz, 23, R3i, lok; 81 mm → Gkz, In4148, Rzt, R34; 80 mm → 24k, 47K, 1n4148, Iok; 76 mm → iook, R46, R4z, CKz
 
-Every curve, box, word and wire group: [1977 - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC - DRN ELJ - ENG ELJ - ISS 2 (traced).json](../SCHEMATICS/1977%20-%20458-02-001%20-%20QUAD%20PEAK%20OVERLOAD%20INDICATOR%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ENG%20ELJ%20-%20ISS%202%20(traced).json) (the CAD file: `1977 - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC - DRN ELJ - ENG ELJ - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC - DRN ELJ - ENG ELJ - ISS 2 (traced).json](../SCHEMATICS/1977%20-%20458-02-001%20-%20QUAD%20PEAK%20OVERLOAD%20INDICATOR%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ENG%20ELJ%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1977 - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC - DRN ELJ - ENG ELJ - ISS 2 (traced).dxf`).
 
 ## Full text
 

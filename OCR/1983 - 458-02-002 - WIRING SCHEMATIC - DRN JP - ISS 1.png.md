@@ -36,7 +36,7 @@ Wiki page: [M458](../../../../PAGES/M458.md)
 - **Title block:** (278, 16)–(431, 84) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK sySTEMS · DRN, JP/o6/33 · ENG_ · M458 · CKD_ · WIRING SCHEMATIC · APP · ISSUE · SCALE · 458-02-002
 - **Wiring (first pass):** 42 connected wire groups from 336 runs; labelled ends: 325 mm → +25v, ~25v; 114 mm → +24V; 97 mm → AUDIO, Audio, SOURCE 4; 70 mm → 458-02-002; 18 mm → SOURCE 4
 
-Every curve, box, word and wire group: [1983 - 458-02-002 - WIRING SCHEMATIC - DRN JP - ISS 1 (traced).json](../SCHEMATICS/1983%20-%20458-02-002%20-%20WIRING%20SCHEMATIC%20-%20DRN%20JP%20-%20ISS%201%20(traced).json) (the CAD file: `1983 - 458-02-002 - WIRING SCHEMATIC - DRN JP - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - 458-02-002 - WIRING SCHEMATIC - DRN JP - ISS 1 (traced).json](../SCHEMATICS/1983%20-%20458-02-002%20-%20WIRING%20SCHEMATIC%20-%20DRN%20JP%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1983 - 458-02-002 - WIRING SCHEMATIC - DRN JP - ISS 1 (traced).dxf`).
 
 ## Full text
 

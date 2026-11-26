@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (278, 16)–(431, 84) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK sySTEMS · ENG_ · M458 · CKD_ · WIRING SCHEMATIC · APP · ISSUE · SCALE · 458-02-002
 - **Wiring (first pass):** 39 connected wire groups from 334 runs; labelled ends: 325 mm → ~25v, +25v; 114 mm → +24V; 97 mm → AUDIO, Audio, SOURCE 4; 72 mm → ISSUE, 458-02-002; 20 mm → 919
 
-Every curve, box, word and wire group: [19xx - M458 - DOC - 458-02-002 - AUDIO SOURCE (traced).json](../SCHEMATICS/19xx%20-%20M458%20-%20DOC%20-%20458-02-002%20-%20AUDIO%20SOURCE%20(traced).json) (the CAD file: `19xx - M458 - DOC - 458-02-002 - AUDIO SOURCE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M458 - DOC - 458-02-002 - AUDIO SOURCE (traced).json](../SCHEMATICS/19xx%20-%20M458%20-%20DOC%20-%20458-02-002%20-%20AUDIO%20SOURCE%20%28traced%29.json) (the CAD file: `19xx - M458 - DOC - 458-02-002 - AUDIO SOURCE (traced).dxf`).
 
 ## Full text
 
