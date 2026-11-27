@@ -1,16 +1,16 @@
-# M458 · Unsorted
+# M458 Quad Peak Overload Indicator · Unsorted
 
 Ward-Beck Systems M458, 1977|10. Wiki page: [M458 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M458.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 14 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 0 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 0 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 17 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 4 |
 
 ## Schematics
@@ -18,7 +18,7 @@ Ward-Beck Systems M458, 1977|10. Wiki page: [M458 on WBSps.ca](https://wardbecks
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1gNzmXqdWUPX0Kzsf4x1SksjfFlN_DfWA/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1gNzmXqdWUPX0Kzsf4x1SksjfFlN_DfWA" width="240" alt="19xx - M458 - DOC - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC.png"></a><br><sub>19xx - M458 - DOC - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1AyEx9mAbwC0T4FGBiP5sTKD-axeJKbRD/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1AyEx9mAbwC0T4FGBiP5sTKD-axeJKbRD" width="240" alt="19xx - M458 - DOC - 458-02-002 - AUDIO SOURCE.png"></a><br><sub>19xx - M458 - DOC - 458-02-002 - AUDIO SOURCE</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1gNzmXqdWUPX0Kzsf4x1SksjfFlN_DfWA/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1gNzmXqdWUPX0Kzsf4x1SksjfFlN_DfWA" width="240" alt="19xx - M458 - DOC - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC.png"></a><br><sub>19xx - M458 - DOC - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M458%20-%20DOC%20-%20458-02-001%20-%20QUAD%20PEAK%20OVERLOAD%20INDICATOR%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1AyEx9mAbwC0T4FGBiP5sTKD-axeJKbRD/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1AyEx9mAbwC0T4FGBiP5sTKD-axeJKbRD" width="240" alt="19xx - M458 - DOC - 458-02-002 - AUDIO SOURCE.png"></a><br><sub>19xx - M458 - DOC - 458-02-002 - AUDIO SOURCE · <a href="SCHEMATICS/19xx%20-%20M458%20-%20DOC%20-%20458-02-002%20-%20AUDIO%20SOURCE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1977 - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC - DRN ELJ - ENG ELJ - ISS 2.png`, `1983 - 458-02-002 - WIRING SCHEMATIC - DRN JP - ISS 1.png`
@@ -29,7 +29,14 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [1977 - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC - DRN ELJ - ENG ELJ - ISS 2.kicad_sch](KICAD/1977%20-%20458-02-001%20-%20QUAD%20PEAK%20OVERLOAD%20INDICATOR%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ENG%20ELJ%20-%20ISS%202.kicad_sch)
 - [1983 - 458-02-002 - WIRING SCHEMATIC - DRN JP - ISS 1.kicad_sch](KICAD/1983%20-%20458-02-002%20-%20WIRING%20SCHEMATIC%20-%20DRN%20JP%20-%20ISS%201.kicad_sch)
+- [19xx - M458 - DOC - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M458%20-%20DOC%20-%20458-02-001%20-%20QUAD%20PEAK%20OVERLOAD%20INDICATOR%20SCHEMATIC.kicad_sch)
+- [19xx - M458 - DOC - 458-02-002 - AUDIO SOURCE.kicad_sch](KICAD/19xx%20-%20M458%20-%20DOC%20-%20458-02-002%20-%20AUDIO%20SOURCE.kicad_sch)
 - [M458.kicad_sym](KICAD/M458.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
