@@ -1,5 +1,5 @@
 # 1983 - 458-02-002 - WIRING SCHEMATIC - DRN JP - ISS 1.png
-Wiki page: [M458](../../../../PAGES/M458.md)
+Wiki page: [M458](../)
 
 
 - **Year:** 1983 (title block date)

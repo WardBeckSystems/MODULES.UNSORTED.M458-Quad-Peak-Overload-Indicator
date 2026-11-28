@@ -1,6 +1,6 @@
 # M458 Quad Peak Overload Indicator · Meter
 
-Ward-Beck Systems M458, 1977|10. Wiki page: [M458 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M458.html)
+Ward-Beck Systems M458, 1977|10. Wiki page: [M458 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M458-Quad-Peak-Overload-Indicator/)
 
 | Folder | What is in it | Files |
 |---|---|---|

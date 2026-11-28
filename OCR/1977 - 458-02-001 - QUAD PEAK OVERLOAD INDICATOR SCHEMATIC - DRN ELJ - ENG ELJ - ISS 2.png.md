@@ -1,5 +1,5 @@
 # 1977 - 458-02-001 - QUAD PEAK OVERLOAD INDICATOR SCHEMATIC - DRN ELJ - ENG ELJ - ISS 2.png
-Wiki page: [M458](../../../../PAGES/M458.md)
+Wiki page: [M458](../)
 
 
 - **Year:** 1977 (title block date)
